@@ -2,9 +2,15 @@
 
 redis client implemented by golang
 
+## 自己动手造轮子系列（一）
+
 使用golang语言实现的redis客户端工具
 
 多年前写的一个小工具， 核心代码不到100行，实现了Redis Resp协议的解析，支持基本的交互命令和发布订阅功能
+
+其他系列
+
+. [自己动手造轮子系列（二）- 基于Netty实现tomcat](https://github.com/lsm1998/tiny_tomcat)
 
 ## 使用方法
 
