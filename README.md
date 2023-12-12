@@ -12,6 +12,10 @@ redis client implemented by golang
 
 . [自己动手造轮子系列（二）- 基于Netty实现tomcat](https://github.com/lsm1998/tiny_tomcat)
 
+### 环境说明
+
+>= go 1.15
+
 ## 使用方法
 
 ### 1. 编译
